@@ -1,5 +1,5 @@
 <p align="center">
-    ![woowacourse](https://github.com/jiu6525/baekjoon/assets/118248199/3c7b8821-0b00-4b75-ac43-5c0de7077982)
+    <img src="./woowacourse.png" alt="우아한테크코스" width="250px">
 </p>
 
 # 프리코스 1주차 미션 - 숫자 야구 게임
